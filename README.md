@@ -1,9 +1,9 @@
+![MasterHead](https://www.worklage.com/wp-content/uploads/2021/09/epv55hgtsfi8csprpj9u.jpeg)
+
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkr0132&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkr0132" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalkr0132" alt="vishalkr0132" /></a> </p>
+<img align="right" alt="coding img" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3iMO9VoAfMX50PNPHZNqXyC5YxVPolYEMxg&usqp=CAU">
 
 - 🔭 I’m currently working on **Education System**
 
