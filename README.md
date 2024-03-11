@@ -1,4 +1,4 @@
-![MasterHead](https://www.worklage.com/wp-content/uploads/2021/09/epv55hgtsfi8csprpj9u.jpeg)
+![MasterHead](https://www.shutterstock.com/image-vector/python-coding-language-sign-on-notebook-1389877574)
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
