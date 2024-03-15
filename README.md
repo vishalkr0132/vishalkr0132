@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1dxn26jm5IX1-aAY0-CmvyRNHKV_DhuUG/view?usp=drive_link)
+![MasterHead](https://drive.google.com/file/d/1dxn26jm5IX1-aAY0-CmvyRNHKV_DhuUG/view?usp=drive_link.jpg)
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
